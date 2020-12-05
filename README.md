@@ -1,3 +1,6 @@
+根据网上的改写，基础功能：当天当地天气，未来六天天气，PM2.5有关信息没有。
+
+
 SharedPreferences settings= getSharedPreferences("setting", Context.MODE_PRIVATE);
 
 
